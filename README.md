@@ -88,6 +88,7 @@ PromptMaster — это игровой тренер по промт-инжини
 - Мобильное приложение с push-уведомлениями
 
 
+![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/TerryBish/aiassistant_bot/blob/main/Telegram.png?raw=true))
 
 ---
 
